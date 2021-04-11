@@ -1,3 +1,3 @@
 # dtree-iris-task6
-Task 6 of Data Science and Business Analytics Intership
+Data Science and Business Analytics Intership : Task 6 -
 Prediction of Decision Tree 
